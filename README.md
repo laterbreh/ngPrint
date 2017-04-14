@@ -6,7 +6,7 @@ This is a modified version of Gilf's original ngPrint, it has some styling chang
 
 Please feel free to contribute and make it better! 
 
-All credit goes of the original codebase goes to gilf (the original author):
+All credit for the original codebase goes to gilf:
 
 Copyright (C) 2014, 2015, 2016 Gil Fink <gil@sparxys.com>
 

@@ -1,8 +1,12 @@
-ngPrint
+A fork of ngPrint
 ==============
-
 AngularJS directive for browser printing.
 
+This is a modified version of Gilf's original ngPrint, it has some styling changes and additions to help display modals and tables in a little more readable format when going into the print dialog. 
+
+Please feel free to contribute and make it better! 
+
+All credit goes to gilf (the original creator):
 Copyright (C) 2014, 2015, 2016 Gil Fink <gil@sparxys.com>
 
 Installation

@@ -1,1 +1,1 @@
-@media screen{#printSection{display:none}}@media print{body *{visibility:hidden}#printSection,#printSection *{visibility:visible}#printSection{position:absolute;left:0;top:0}}
+@media screen{#printSection{display:none}}@media print{body *{visibility:hidden}#printSection,#printSection *{visibility:visible; z-index: 2147483647;}#printSection{position:absolute;left:0;top:0}}
